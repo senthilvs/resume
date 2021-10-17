@@ -1,21 +1,9 @@
 # Skills
 # Technical
 - skill: Technical
-  description: <ul class="resume-item-list">
-  <li>Platform based Software Development</li>
-  <li>Cloud based application development</li>
-  <li>Distributed Systems</li>
-  <li>Highly Scalable Web Architectures</li>
-  <li>Java,Javascript,Linux</li>
-  </ul>
+  description: <ul class="resume-item-list"><li>Platform based Software Development</li><li>Cloud based application development</li><li>Distributed Systems</li><li>Highly Scalable Web Architectures</li><li>Java,Javascript,Linux</li></ul>
 
 # Management
 - skill: Management
-  description: <ul class="resume-item-list">
-  <li>TechTalent Hiring</li>
-  <li>Building teams from scratch</li>
-  <li>Performance Management</li>
-  <li>Mentorship</li>
-  <li>Stakeholder Management</li>
-  </ul>
+  description: <ul class="resume-item-list"><li>TechTalent Hiring</li><li>Building teams from scratch</li><li>Performance Management</li><li>Mentorship</li><li>Stakeholder Management</li></ul>
 
