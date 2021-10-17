@@ -9,11 +9,10 @@
 - company: Quotient Technology (formerly coupons.com)
   position: Engineering Manager
   duration:  Mar, 2017 &mdash; Feb, 2020
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary:  <ul class="resume-item-list"><li>Core promotions API platform development (JVM stack)</li><li>Built a development team of size 10 and established an independent QA team of size 5</li><li>Contributed to Tech hiring @ our Blore centre level</li></ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Tech lead
+- company: Quotient Technology (formerly coupons.com)
+  position: Technical Lead
+  duration:  May, 2016 &mdash; Feb, 2017
+  summary: <ul class="resume-item-list"><li>CCore promotions API platform development (JVM stack)</li></ul>
