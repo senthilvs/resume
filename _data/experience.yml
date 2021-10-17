@@ -15,4 +15,28 @@
 - company: Quotient Technology (formerly coupons.com)
   position: Technical Lead
   duration:  May, 2016 &mdash; Feb, 2017
-  summary: <ul class="resume-item-list"><li>CCore promotions API platform development (JVM stack)</li></ul>
+  summary: <ul class="resume-item-list"><li>Core promotions API platform development (JVM stack)</li></ul>
+  
+# Associate
+- company: JP Morgan
+  position: Associate Application Developer
+  duration:  Oct, 2014 &mdash; May, 2016
+  summary: <ul class="resume-item-list"><li>Data sourcing/distribution platform development towards https://markets.jpmorgan.com</li></ul>
+  
+# Lead engineer
+- company: LifeSize Communications
+  position: Lead Software Engineer
+  duration:  Apr, 2012 &mdash; Oct, 2014
+  summary: <ul class="resume-item-list"><li>Management software suite development for LifeSize video conferencing products (Full stack)</li></ul>
+  
+# s/w engg 3
+- company: Cisco Systems
+  position: Software Engineer III
+  duration:  Nov, 2007 &mdash; Mar, 2012
+  summary: <ul class="resume-item-list"><li>NextGen management software platform development for Cisco network products (Full stack)</li></ul>
+  
+# project engineer
+- company: Wipro Technologies
+  position: Project Engineer
+  duration:  Jun, 2005 &mdash; Oct, 2007
+  summary: <ul class="resume-item-list"><li>Enterprise application development for Alcatel telecommunication products</li></ul>
