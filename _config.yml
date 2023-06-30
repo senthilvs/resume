@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Senthil Kumar VS"
-resume_title:                   "Senior Engineering Manager"
+resume_title:                   "Engineering Leader"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "senthil.kumarvs@yahoo.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+91 9886368955"
-resume_contact_address:         "Bangalore, India"
+#resume_contact_telephone:       "+91 9886368955"
+resume_contact_address:         "Irving, Texas, USA"
 
-resume_header_contact_info:     "Bangalore, India • +91 9886368955 • senthil.kumarvs@yahoo.com"
+resume_header_contact_info:     "Irving, Texas, USA • +91 9886368955 • senthil.kumarvs@yahoo.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>16 years of experience in Software Development esp. Platform based and API driven. 4 years into Engineering Management role.Passionate about Computing esp. Distributed Systems. Now, looking for positions that provides opportunities to solve challenging problems in scale and complexity</p>"
+resume_header_intro: "<p>18 years of experience in Software Development esp. Platform based and API driven. 6 years into Engineering Management role.Passionate about Computing esp. Distributed Systems. Now, looking for positions that provides opportunities to solve challenging problems in scale and complexity</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
